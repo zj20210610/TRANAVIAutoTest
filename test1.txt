@@ -1,1 +1,2 @@
 master的原有内容
+branch1要合并到master分支上的内容
